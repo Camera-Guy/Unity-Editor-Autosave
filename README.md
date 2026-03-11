@@ -1,5 +1,8 @@
 # Unity-Editor-Autosave
-New Unity versions have improvements MY ASS!!! (In H2 Master Guns Voice) 
+If you don't use this Your time will come
+the Crash is always there waiting...
+
+use the failsafe 
 
 Autosave with Countdown in the tab, Adjustable timer, Pause and Reset timer, and a funny Microsecond setting because funny.
 
