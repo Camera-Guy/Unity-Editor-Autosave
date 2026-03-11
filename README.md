@@ -1,6 +1,6 @@
 # Unity-Editor-Autosave
 If you don't use this Your time will come
-the Crash is always there waiting...
+the Crash is always there... waiting.
 
 use the failsafe 
 
