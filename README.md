@@ -2,7 +2,7 @@
 If you don't use this Your time will come
 the Crash is always there... waiting.
 
-use the failsafe or wish you did
+Use the failsafe or wish you did
 
 Autosave with Countdown in the tab, Adjustable timer, Pause and Reset timer, and a funny Microsecond setting because funny.
 
